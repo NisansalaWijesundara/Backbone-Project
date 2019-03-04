@@ -3,3 +3,11 @@ bower_components
 # Don't save editor backup files (e.g. vim)
 *~
 
+# Don't include Mac OS-specific files
+.DS_Store
+
+# No editing tempfiles either
+*~
+
+# No temp directory
+_data
